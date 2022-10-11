@@ -31,3 +31,4 @@ Q. It says "You had to check out from the last class. Since you didn\'t check ou
   Option 2. Error is raised, but attendance is marked anyway.
     A. Ignore the issue. It happens sometimes for now.
   
+If you did not find your issue listed here, write to a.kobilov@akfauniversity.org
